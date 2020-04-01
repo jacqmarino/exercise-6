@@ -2,29 +2,25 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <title>Box Model</title>
+    <title>Meet the Cats</title>
     <link href="css/style.css" rel="stylesheet" />
   </head>
 
   <body>
-    <h1>Working with Boxes!</h1>
-    <p><small>Your font may be different.</small></p>
+    <header>
+      <h1>Meet the Cats</h1>
 
-    <div id="box01">
-      <p>Text!</p>
-    </div>
-
-    <div id="box02">
-      <p>Text!</p>
-    </div>
-
-    <div id="box03">
-      <p>Text!</p>
-    </div>
-
-    <div id="box04">
-      <p>Text!</p>
-    </div>
-
+      <nav>
+        <ul>
+          <li>Home</li>
+          <li><a href="">Charlie</a></li>
+          <li><a href="">Coby</a></li>
+          <li><a href="">Flynn</a></li>
+          <li><a href="">Piper</a></li>
+          <li><a href="">Quorra</a></li>
+          <li><a href="">Zedo</a></li>
+        </ul>
+      </nav>
+    </header>
   </body>
 </html>
