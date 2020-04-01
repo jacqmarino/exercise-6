@@ -1,14 +1,12 @@
 <!DOCTYPE html>
   <head>
     <meta charset="UTF-8" />
-    <title>Meet the Cats</title>
     <link href="css/style.css" rel="stylesheet" />
   </head>
 
   <body>
     <header>
       <h1>Meet the Cats</h1>
-
       <nav>
         <ul>
           <li>Home</li>
